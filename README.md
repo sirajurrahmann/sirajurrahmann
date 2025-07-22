@@ -1,6 +1,9 @@
-- 👋 Hi, I’m Siraj Ur Rahman
-- 👀 I’m interested in .Net, Node, Umbraco and React projects
-- 🌱 I’m currently learning React and Umbraco
-- 💞️ I’m looking to collaborate on .Net and Node JS Projects
-- 📫 Reach me at siraj.urrahman@n3o.ltd
-- 🌐 You can also reach me at [website](https://www.sirajurrahman.com/)
+👋 Hi there!
+
+👀 I’m interested in .NET, Node.js, Umbraco, and AI
+
+🌱 Currently learning React and deepening my skills in Umbraco
+
+💞️ Looking to collaborate on .NET and PostgreSQL projects
+
+📫 You can reach me at siraj.urrahman@n3o.ltd
